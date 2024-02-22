@@ -203,7 +203,7 @@ Booking flag indicates confirmation, disabled or enabled.
 We imagine that this API is in the process of being realized and that is why there are models, repositories, interfaces and services for them, for their future use.
 
 ### Be_Travel Database MySql:
-I have exported the database information in [mysqlShift](https://github.com/Andrea0o0/Andrea0o0-Garcia-Gonzalez-Manchon-Andrea_pruebatec2/tree/main/mysql) inside the folder.
+I have exported the database information in [mysqlShift](https://github.com/Andrea0o0/Andrea0o0-Garcia-Gonzalez-Manchon-Andrea_pruebatec4/tree/main/sql) inside the folder.
 
 ### PostMan:
-I have exported the database information in [postman](https://github.com/Andrea0o0/Andrea0o0-Garcia-Gonzalez-Manchon-Andrea_pruebatec2/tree/main/mysql](https://github.com/Andrea0o0/Andrea0o0-Garcia-Gonzalez-Manchon-Andrea_pruebatec4/tree/main/postman)https://github.com/Andrea0o0/Andrea0o0-Garcia-Gonzalez-Manchon-Andrea_pruebatec4/tree/main/postman) inside the folder.
+I have exported the database information in [postman](https://github.com/Andrea0o0/Andrea0o0-Garcia-Gonzalez-Manchon-Andrea_pruebatec4/tree/main/postman) inside the folder.

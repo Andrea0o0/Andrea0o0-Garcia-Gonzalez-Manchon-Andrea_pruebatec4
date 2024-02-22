@@ -56,7 +56,10 @@ public class SecurityConfig {
 
                                                        .anyRequest().authenticated()
 
-                ).formLogin(withDefaults())
+                ).formLogin().permitAll()
+                .and()
+                .httpBasic()
+                .and()
                 .build();
     }
 }

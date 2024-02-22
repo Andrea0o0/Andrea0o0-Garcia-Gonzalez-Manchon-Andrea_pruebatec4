@@ -155,8 +155,7 @@ Passenger --|> Luggage: n to 1
 ```
 
 ## Important:
-The state change automatically without doing anything, the time transcurred only is available in case of waiting state. 
-Only change the state inside the tables shifts.
+The routes for creating reservations, both flights and hotels, are public, because there are no users linked to the reservation, but there are guests and passengers, which is why it has been considered to make the route public.
 
 ## Requirements:
 
